@@ -16,6 +16,7 @@ import { getFirestore } from '@firebase/firestore';
 fill in your firebase firebase config code here*
 
 // Initialize Firebase
+
 const app = initializeApp(firebaseConfig);
 
 export const auth = getAuth(app);
