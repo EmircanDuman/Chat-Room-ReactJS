@@ -9,7 +9,9 @@ https://youtu.be/0gLr-pBIPhI
 Create a firebase-config.js in the main src folder,
 
 import { initializeApp } from "firebase/app";
+
 import { getAuth, GoogleAuthProvider } from 'firebase/auth';
+
 import { getFirestore } from '@firebase/firestore';
 
 
