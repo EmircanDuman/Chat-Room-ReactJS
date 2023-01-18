@@ -4,7 +4,7 @@ a chat room application that uses React JS libraries & Firebase API.
 
 You'll need to create and manage a Firebase backend to use it.
 Or rather just follow along this tutorial:
-https://www.youtube.com/watch?v=0gLr-pBIPhI&list=WL&index=6&ab_channel=PedroTech
+https://youtu.be/0gLr-pBIPhI
 
 Create a firebase-config.js in the main src folder,
 
